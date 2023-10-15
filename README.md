@@ -1,2 +1,2 @@
 # Jhalys-Munyer
-Société Holding d'Administration Technologique SAS 2023
+Société Administrative Technologique SAS 2023
